@@ -6,16 +6,11 @@ Practical exercises for my Statistics for Data Science course, using the **Teach
 
 - `Practical_1.ipynb` — Practical 1 notebook
 - `Practical_2.ipynb` — Understanding foundations of stats (mean, median, descriptive stats, histograms, group comparisons) using the ratings dataset
-- `TeachingRatings.csv` — the dataset used across both practicals
+- `Practical_3.ipynb` — Understanding descriptive stats further: tenure vs minority status, age vs tenure, choosing the right graph type, and bar chart basics
+- `TeachingRatings.csv` — the dataset used across all practicals
 
 ## Tools used
 
 - Python
 - pandas, numpy
 - matplotlib, seaborn
-
-## How to run
-
-1. Clone this repo
-2. Install the requirements: `pip install pandas numpy matplotlib seaborn`
-3. Open the notebooks in Jupyter or VS Code and run all cells
