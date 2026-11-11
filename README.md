@@ -6,15 +6,15 @@ This repository contains the 11 practical notebooks for a Statistics for Data Sc
 
 | Notebook | Topic |
 | --- | --- |
-| `Practical_1.ipynb` | Practical 1 exercises |
-| `Practical_2.ipynb` | Statistical foundations and descriptive statistics with teaching ratings |
-| `Practical_3.ipynb` | Descriptive statistics and comparisons using teaching ratings |
-| `Practical_4.ipynb` | Understanding data with graphs |
-| `Practical_5.ipynb` | Two-tailed hypothesis tests |
-| `Practical_6.ipynb` | T-tests, ANOVA, and chi-square tests |
-| `Practical_7.ipynb` | Regression, t-tests, and ANOVA |
-| `Practical_8.ipynb` | Decision trees and maximum depth |
-| `Practical_9.ipynb` | K-nearest neighbors (KNN) classification |
+| `Practical_01.ipynb` | Practical 1 exercises |
+| `Practical_02.ipynb` | Statistical foundations and descriptive statistics with teaching ratings |
+| `Practical_03.ipynb` | Descriptive statistics and comparisons using teaching ratings |
+| `Practical_04.ipynb` | Understanding data with graphs |
+| `Practical_05.ipynb` | Two-tailed hypothesis tests |
+| `Practical_06.ipynb` | T-tests, ANOVA, and chi-square tests |
+| `Practical_07.ipynb` | Regression, t-tests, and ANOVA |
+| `Practical_08.ipynb` | Decision trees and maximum depth |
+| `Practical_09.ipynb` | K-nearest neighbors (KNN) classification |
 | `Practical_10.ipynb` | Principal component analysis (PCA) |
 | `Practical_11.ipynb` | Monte Carlo methods and Markov chain Monte Carlo (MCMC) |
 
