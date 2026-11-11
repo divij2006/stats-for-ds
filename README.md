@@ -8,7 +8,7 @@ This repository contains the 11 practical notebooks for a Statistics for Data Sc
 | --- | --- |
 | `Practical_1.ipynb` | Practical 1 exercises |
 | `Practical_2.ipynb` | Statistical foundations and descriptive statistics with teaching ratings |
-| `Practical_3.ipynb` | Descriptive statistics and comparisons using student rating data |
+| `Practical_3.ipynb` | Descriptive statistics and comparisons using teaching ratings |
 | `Practical_4.ipynb` | Understanding data with graphs |
 | `Practical_5.ipynb` | Two-tailed hypothesis tests |
 | `Practical_6.ipynb` | T-tests, ANOVA, and chi-square tests |
@@ -24,8 +24,8 @@ Keep the CSV files in the repository root when running the notebooks that load t
 
 | File | Used in |
 | --- | --- |
-| `TeachingRatings.csv` | Practicals 2 and 4–7 |
-| `StudentRatingData.csv` | Practical 3 |
+| `TeachingRatings.csv` | Practicals 2–7 |
+| `StudentRatingData.csv` | Additional student rating dataset |
 | `diabetes.csv` | Practical 8 |
 | `sunspots_1749_2018.csv` | Practical 11 |
 
