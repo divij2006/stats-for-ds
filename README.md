@@ -1,39 +1,36 @@
-# Statistics for Data Science — Practicals
+# Statistics for Data Science Practicals
 
-This repository contains the 11 practical notebooks for a Statistics for Data Science course. The notebooks cover descriptive statistics, visualization, hypothesis testing, regression, and introductory machine learning and simulation methods.
+This repository contains 11 practical notebooks. Each numbered folder includes its notebook and a short README describing the exercise. Notebook outputs are saved in the `.ipynb` files for review on GitHub.
 
 ## Practicals
 
-| Notebook | Topic |
-| --- | --- |
-| `Practical_01.ipynb` | Practical 1 exercises |
-| `Practical_02.ipynb` | Statistical foundations and descriptive statistics with teaching ratings |
-| `Practical_03.ipynb` | Descriptive statistics and comparisons using teaching ratings |
-| `Practical_04.ipynb` | Understanding data with graphs |
-| `Practical_05.ipynb` | Two-tailed hypothesis tests |
-| `Practical_06.ipynb` | T-tests, ANOVA, and chi-square tests |
-| `Practical_07.ipynb` | Regression, t-tests, and ANOVA |
-| `Practical_08.ipynb` | Decision trees and maximum depth |
-| `Practical_09.ipynb` | K-nearest neighbors (KNN) classification |
-| `Practical_10.ipynb` | Principal component analysis (PCA) |
-| `Practical_11.ipynb` | Monte Carlo methods and Markov chain Monte Carlo (MCMC) |
+| No. | Folder | Files | Topic |
+| --- | --- | --- | --- |
+| 01 | [Practical-01/](Practical-01/) | [README](Practical-01/README.md) · [Notebook](Practical-01/Practical_01.ipynb) | Revisiting Pandas and NumPy |
+| 02 | [Practical-02/](Practical-02/) | [README](Practical-02/README.md) · [Notebook](Practical-02/Practical_02.ipynb) | Statistics Foundations with a Rating Dataset |
+| 03 | [Practical-03/](Practical-03/) | [README](Practical-03/README.md) · [Notebook](Practical-03/Practical_03.ipynb) | Descriptive Statistics |
+| 04 | [Practical-04/](Practical-04/) | [README](Practical-04/README.md) · [Notebook](Practical-04/Practical_04.ipynb) | Understanding Data with Graphs |
+| 05 | [Practical-05/](Practical-05/) | [README](Practical-05/README.md) · [Notebook](Practical-05/Practical_05.ipynb) | Probability and a Two-Tailed Test |
+| 06 | [Practical-06/](Practical-06/) | [README](Practical-06/README.md) · [Notebook](Practical-06/Practical_06.ipynb) | T-Tests, ANOVA, and Chi-Square |
+| 07 | [Practical-07/](Practical-07/) | [README](Practical-07/README.md) · [Notebook](Practical-07/Practical_07.ipynb) | Regression, T-Tests, and ANOVA |
+| 08 | [Practical-08/](Practical-08/) | [README](Practical-08/README.md) · [Notebook](Practical-08/Practical_08.ipynb) | Decision Trees and Maximum Depth |
+| 09 | [Practical-09/](Practical-09/) | [README](Practical-09/README.md) · [Notebook](Practical-09/Practical_09.ipynb) | K-Nearest Neighbors (KNN) |
+| 10 | [Practical-10/](Practical-10/) | [README](Practical-10/README.md) · [Notebook](Practical-10/Practical_10.ipynb) | Principal Component Analysis (PCA) |
+| 11 | [Practical-11/](Practical-11/) | [README](Practical-11/README.md) · [Notebook](Practical-11/Practical_11.ipynb) | Monte Carlo and MCMC |
 
 ## Data files
 
-Keep the CSV files in the repository root when running the notebooks that load them by filename.
+CSV files are kept in the repository root. Notebooks that use these files refer to them with a relative path from their practical folder.
 
-| File | Used in |
+| File | Practical use |
 | --- | --- |
-| `TeachingRatings.csv` | Practicals 2–7 |
-| `StudentRatingData.csv` | Additional student rating dataset |
-| `diabetes.csv` | Practical 8 |
+| `TeachingRatings.csv` | Practicals 02–07 |
+| `StudentRatingData.csv` | Additional student ratings dataset |
+| `diabetes.csv` | Practical 08 |
 | `sunspots_1749_2018.csv` | Practical 11 |
 
-Practicals 9 and 10 use the Iris and Wine datasets provided by scikit-learn.
+Practicals 09 and 10 use the Iris and Wine datasets included with scikit-learn.
 
-## Tools used
+## Tools
 
-- Python and Jupyter Notebook
-- pandas, NumPy, Matplotlib, and Seaborn
-- SciPy and statsmodels
-- scikit-learn
+Python, Jupyter Notebook, pandas, NumPy, Matplotlib, Seaborn, SciPy, statsmodels, and scikit-learn.
